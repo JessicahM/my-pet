@@ -11,7 +11,7 @@ His likes.
 >..*Food
 >..*Sleeping
 
-[![German shepherd and puppy playing on couch](https://s-media-cache-ak0.pinimg.com/236x/18/e2/3a/18e23a696845b940400ac314867d1186.jpg)](https://www.youtube.com/watch?v=2kWupMxAmDA)
+[![German shepherd and puppy playing on couch](https://www.youtube.com/watch?v=2kWupMxAmDA)]
 
 
 
