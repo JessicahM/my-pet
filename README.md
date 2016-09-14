@@ -11,7 +11,7 @@ His likes.
 >..*Food
 >..*Sleeping
 
-<a href="https://www.youtube.com/watch?v=2kWupMxAmDA"><img src="img/hqdefault.jpg">
+<a href="https://www.youtube.com/watch?v=2kWupMxAmDA"><img src="https://i.ytimg.com/vi/2kWupMxAmDA/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eZIsrm0AWlME0U3BKH3H_IvoVyQ">
 
 
 
