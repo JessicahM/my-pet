@@ -1,0 +1,33 @@
+h1 {
+  color: cyan;
+  text-align: center;
+}
+
+body {
+  background-color: #cc99ff;
+  background-image: url(https://s-media-cache-ak0.pinimg.com/236x/b5/aa/95/b5aa95d4a623ecb90a609d5a002f286c.jpg);
+}
+
+h4 {
+  font-style: italic;
+  text-align: center;
+  color: crimson;
+}
+
+p {
+  font-family: sans-serif;	
+}
+
+ul {
+  font-size: 15px;
+  line-height: 30px;
+  list-style-type: square;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+
+}
+
